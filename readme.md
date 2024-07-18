@@ -119,3 +119,4 @@ IG: zerikwn_
 ## Price
 Arrange: 10k
 Re-Arrange: 6k
+Beat Arrange: 6k
